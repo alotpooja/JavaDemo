@@ -1,2 +1,2 @@
-# JavaDemo
-In this projects all coding challange available
+# Hello World Project
+In this demo i am introducting hello wolrd project
